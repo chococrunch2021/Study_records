@@ -4,7 +4,7 @@
 
 ### 목차 리스트
 
-- [이벤트 위임](<#이벤트-위임-(event-delegation)이란?>)
+- [이벤트 위임](#이벤트-위임-event-delegation이란)
 
 ### `이벤트 위임 (event delegation)`이란?
 

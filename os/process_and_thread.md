@@ -18,7 +18,7 @@
   - 주소 공간
   - code, data, stack, heap 구조로 되어있는 독립된 메모리 영역
 
-![프로세스구성](./images/process.png)
+    <img width="350px" height="200px" src="./images/process.png">
 
 - 프로세스는 `독립된 메모리 영역`(Code, data, stack, heap)을 할당받는다.
 - 프로세스당 `최소 1개의 스레드(메인 스레드)`를 갖는다
@@ -34,7 +34,7 @@
 - 운영체제에 있어 작업의 단위는 프로세스이다.
 - CPU에게 있어 작업의 단위는 쓰레드이다.
 
-![THREAD](./images/thread.png)
+  <img width="350px" height="200px" src="./images/thread.png">
 
 - 프로세스 내에서 각각 `stack만 따로 할당`받고 Code, data, heap 영역은 공유한다
 - 프로세스의 주소 공간이나 자원(heap) 등을 같은 프로세스 내 스레드끼리 공유하며 실행된다

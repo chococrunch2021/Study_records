@@ -1,4 +1,8 @@
-### `폴리필`
+### 용어 목차
+
+- [폴리필](#폴리필)
+
+### **폴리필**
 
 - 웹 개발에서 `웹 브라우저 상에서 지원되지 않는 기능을 구현하는 코드`이다.
 
@@ -10,4 +14,4 @@
 - CSS3 PIE: IE9이하 CSS3 border-radius 속성 지원
 - Flexie: flex 지원하지 않는 브라우저에서 flex css 옵션 지원
 
-[출처:https://ko.wikipedia.org/wiki ](<https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A6%AC%ED%95%84_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)>)
+  [출처:https://ko.wikipedia.org/wiki ](<https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A6%AC%ED%95%84_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)>)

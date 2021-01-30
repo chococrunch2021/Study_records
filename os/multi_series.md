@@ -50,6 +50,8 @@
 3. 단점: `동기화 문제`
    - 쓰레드 간 자원 공유는 `전역 변수를 사용하므로 충돌이 발생할 수 있다`
    - 한 쓰레드의 문제가 생기면 전체 프로세스에 영향을 끼치지만 프로세스는 독립적이기 때문에 한 프로세스의 문제가 다른 프로세스에 영향을 끼치지 않는다.
+   - 동기화를 통해 스레드 작업 처리 순서와 공유자원에 대한 접근 컨트롤 할 수 있다
+   - 싱글코어 멀티스레딩은 context switching이나 동기화 등의 이유로 인하여 스레드 생성시간이 오히려 오버헤드로 작동할 수 있다
 
 ### 동시 멀티 쓰레딩 (SMT - Simultaneous multi threading)
 
@@ -66,3 +68,4 @@
   - [굳긷 블로그 -멀티로 시작하는 OS 단어 정리](https://goodgid.github.io/OS-Start-From-Multi/)
   - [멀티 프로세스 대신 멀티 스레드 사용하는 이유?](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-os.html)
   - [SMT- 나무위키](https://namu.wiki/w/SMT)
+- [멀티 쓰레드 장단점](https://eun-jeong.tistory.com/20)

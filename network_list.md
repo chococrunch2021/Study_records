@@ -11,3 +11,5 @@ todos
 - http 헤더 구조
 - http post vs get
 - http 1.1/2
+- tcp/ip 특징
+- osi 7계층

@@ -4,6 +4,8 @@
 
 - [SEO 검색엔진최적화](./General/SEO.md)
 
+- [MVC, MVVM, MVP 패턴](./General/framework_pattern.md)
+
 ---
 
 todos

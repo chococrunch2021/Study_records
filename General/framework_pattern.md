@@ -4,7 +4,7 @@
 
 ### MVC
 
-   <img src="./images/mvc.png" width="300px" height="250px" />
+  <img src="./images/mvc.png" width="300px" height="250px" />
 
 > Model
 
@@ -34,7 +34,7 @@
 
 - MVC의 controller 대신 presenter가 존재한다
 
- <img src="./images/mvp.png" width="300px" height="250px" />
+  <img src="./images/mvp.png" width="300px" height="250px" />
 
 > PRESENTER
 
@@ -56,7 +56,7 @@
 
 > View Model이라는 것이 등장. 뷰를 표현하기 위한 뷰를 위한 모델
 
- <img src="./images/mvvm.png" width="300px" height="250px" />
+  <img src="./images/mvvm.png" width="300px" height="250px" />
 
 - 두 가지 디자인 패턴을 이용한다 (command패턴, data binding 패턴)
 - view와 viewModel 의존성이 사라진다

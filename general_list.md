@@ -6,6 +6,8 @@
 
 - [MVC, MVVM, MVP 패턴](./General/framework_pattern.md)
 
+- [OOP 객체지향 개념](./General/oop.md)
+
 ---
 
 todos
@@ -21,5 +23,4 @@ todos
 - web 최적화 문제
 - escaping closure
 - weak, strong 타입
-- mvvm , mvc
 - stack, heap

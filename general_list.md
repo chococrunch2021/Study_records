@@ -10,6 +10,8 @@
 
 - [동시성과 병렬성](./General/concurrency_and_parallelism.md)
 
+- [메모리 구조](./General/memory.md)
+
 ---
 
 todos

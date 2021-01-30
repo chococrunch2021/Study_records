@@ -8,12 +8,13 @@
 
 - [OOP 객체지향 개념](./General/oop.md)
 
+- [동시성과 병렬성](./General/concurrency_and_parallelism.md)
+
 ---
 
 todos
 
 - 동기, 비동기
-- oop
 - 블럭킹, 논블럭킹 io 어디에 접목?
 - 브라우저 주소 화면 보여지기 까지 과정
 - hash table

@@ -1,6 +1,6 @@
-# FE_study_records
+# Study_records
 
-FE 관련 용어, 개념 등을 공부하며 정리하는 기록 저장소입니다
+web, CS 관련 용어, 개념 등을 공부하며 정리하는 기록 저장소입니다
 
 - [운영체제](./os_list.md)
 - [네트워크](./network_list.md)

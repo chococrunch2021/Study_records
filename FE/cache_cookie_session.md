@@ -18,6 +18,8 @@
 - 웹 브라우저에 서버측 상태값들을 저장해 사용자에대한 지속적인 상태 감시, 참조
 - 쿠키 저장: HTTP헤더 내 Set-Cookie: 란에 셋팅할 쿠키 정보 보낸다
 - 웹 브라우저는 도메인 서버 이름으로 정렬된 쿠키 디렉토리에 저장
+- 만료 기한이 있다
+- 용량 제한이 꽉찬 쿠키를 요청할 때마다 서버가 필요하지 않는 데이터를 매번 보내는 것은 낭비이다. 그런 데이터는 로컬 스토리지나 세션 스토리지에 저장한다.
 
 ### 세션 Session
 
@@ -25,5 +27,12 @@
 
 - 웹 브라우저 통해 서버에 접속한 이후부터 브라우저 종료할 때까지 유지되는 상태
 
+- 로컬 스토리지와 세션 스토리지 차이
+
+  - 데이터 영구성
+  - 로컬 스토리지 데이터는 사용자가 지우지 않는 이상 브라우저에 남아있다
+  - 세션 스토리지 데이터는 윈도우나 브라우저 탭을 닫을 경우 제거된다.
+
 - [https://gmlwjd9405.github.io/2019/01/28/http-header-types.html](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 - [https://goodgid.github.io/Cookie-vs-Session/](https://goodgid.github.io/Cookie-vs-Session/)
+- [쿠키, 로컬스토리지, 세션 스토리지](https://www.zerocho.com/category/HTML&DOM/post/5918515b1ed39f00182d3048)

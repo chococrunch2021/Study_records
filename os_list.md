@@ -14,9 +14,10 @@
 
 - [세마포어, 뮤텍스, 모니터](./os/semaphore_mutex_monitor.md)
 
+- [가상 메모리, 요구 페이징, 페이지 폴트, 페이지 교체](./os/virtual_memory.md)
+
 ---
 
 - todo
 
 * 외부 단편화, 내부 단편화
-* 가상 메모리

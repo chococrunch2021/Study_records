@@ -12,9 +12,11 @@
 
 - [선점형, 비선점형 OS](./os/preemption_and_nonpreemption.md)
 
+- [세마포어, 뮤텍스, 모니터](./os/semaphore_mutex_monitor.md)
+
 ---
 
 - todo
 
 * 외부 단편화, 내부 단편화
-* \*세마포어, 뮤텍스
+* 가상 메모리

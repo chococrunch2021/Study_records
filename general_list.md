@@ -26,3 +26,5 @@ todos
 - web 최적화 문제
 - escaping closure
 - weak, strong 타입
+
+* 서버 역할

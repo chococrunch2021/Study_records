@@ -6,10 +6,17 @@
 
 - [멀티쓰레드 모델 - 사용자 수준 쓰레드, 커널 수준 쓰레드, 혼합 수준 쓰레드](./os/multi_thread_model.md)
 
+- [Context Switching](./os/context_switching.md)
+
+- [데드락 Deadlock](./os/deadlock.md)
+
+- [선점형, 비선점형 OS](./os/preemption_and_nonpreemption.md)
+
+- [세마포어, 뮤텍스, 모니터](./os/semaphore_mutex_monitor.md)
+
 ---
 
 - todo
 
-* context switching
 * 외부 단편화, 내부 단편화
-* 교착 상태(데드락) 개념, 조건 \*세마포어, 뮤텍스
+* 가상 메모리

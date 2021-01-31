@@ -8,6 +8,8 @@
 
 - [Context Switching](./os/context_switching.md)
 
+- [데드락 Deadlock](./os/deadlock.md)
+
 ---
 
 - todo

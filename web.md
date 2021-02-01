@@ -3,6 +3,8 @@
 - [캐시, 쿠키, 세션, 로컬 스토리지](./Web/cache_cookie_session.md)
 - [쓰로틀링, 디바운싱](./Web/throttling_debouncing.md)
 - [웹팩을 사용하는 이유](./Web/webpack.md)
+- [이벤트 루프](./Web/event_loop.md)
+- [async , defer](./Web/async_defer.md)
 
 ---
 

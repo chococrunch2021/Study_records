@@ -2,6 +2,7 @@
 
 - [캐시, 쿠키, 세션, 로컬 스토리지](./Web/cache_cookie_session.md)
 - [쓰로틀링, 디바운싱](./Web/throttling_debouncing.md)
+- [웹팩을 사용하는 이유](./Web/webpack.md)
 
 ---
 
@@ -11,7 +12,6 @@
 - v-dom
 - 타입스크립트
 - ssr, csr
-- 쓰로틀링, 디바운싱
 - 인터섹션 옵져버
 - wireshark
 - 클라이언트 보안 이슈

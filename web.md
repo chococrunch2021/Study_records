@@ -1,6 +1,6 @@
 ### 목차
 
-- [캐시, 쿠키, 세션, 로컬 스토리지](./FE/cache_cookie_session.md)
+- [캐시, 쿠키, 세션, 로컬 스토리지](./Web/cache_cookie_session.md)
 
 ---
 

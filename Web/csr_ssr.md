@@ -1,0 +1,1 @@
+- [https://krpeppermint100.medium.com/web-seo-ssr-csr-82f9b7e42e21](https://krpeppermint100.medium.com/web-seo-ssr-csr-82f9b7e42e21)

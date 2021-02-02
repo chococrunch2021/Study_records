@@ -16,6 +16,8 @@
 
 - [가상 메모리, 요구 페이징, 페이지 폴트, 페이지 교체](./os/virtual_memory.md)
 
+- [단편화](./os/fragment.md)
+
 ---
 
 - todo

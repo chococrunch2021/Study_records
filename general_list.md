@@ -16,8 +16,6 @@
 
 todos
 
-- 동기, 비동기
-- 블럭킹, 논블럭킹 io 어디에 접목?
 - 브라우저 주소 화면 보여지기 까지 과정
 - hash table
 - hash function

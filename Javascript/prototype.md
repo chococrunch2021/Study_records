@@ -98,3 +98,10 @@ Test.prototype.sum=function(){}
 
 - 특정 객체가 다른 객체의 프로토타입 체인에 포함되어 있는 객체인지 판정
   `F.prototype.isPrototypeOf(obj)`
+
+---
+
+- let newObj=Object.create(null)
+  - 인수에 null을 넣으면 프로토타입이 없는 객체를 만들 수 있다.
+
+

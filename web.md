@@ -1,6 +1,7 @@
 ### 목차
 
 - [캐시, 쿠키, 세션, 로컬 스토리지](./FE/cache_cookie_session.md)
+- [프론트에서 안전하게 로그인 처리하기](./FE/secure_login.md)
 
 ---
 

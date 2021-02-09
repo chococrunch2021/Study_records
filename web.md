@@ -2,6 +2,11 @@
 
 - [캐시, 쿠키, 세션, 로컬 스토리지](./FE/cache_cookie_session.md)
 - [프론트에서 안전하게 로그인 처리하기](./FE/secure_login.md)
+- [캐시, 쿠키, 세션, 로컬 스토리지](./Web/cache_cookie_session.md)
+- [쓰로틀링, 디바운싱](./Web/throttling_debouncing.md)
+- [웹팩을 사용하는 이유](./Web/webpack.md)
+- [이벤트 루프](./Web/event_loop.md)
+- [async , defer](./Web/async_defer.md)
 
 ---
 
@@ -11,5 +16,8 @@
 - v-dom
 - 타입스크립트
 - ssr, csr
-- 쓰로틀링, 디바운싱
 - 인터섹션 옵져버
+- wireshark
+- 클라이언트 보안 이슈
+- cors
+- 트래픽 해결 방법

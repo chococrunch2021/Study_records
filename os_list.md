@@ -1,4 +1,9 @@
-### 목차
+### 공룡책 운영체제 스터디 목차
+
+- [2장 운영체제 시스템](./os/공룡책/2장_System_structure.md)
+
+
+### 개념별 목파
 
 - [프로세스 vs 쓰레드](./os/process_and_thread.md)
 
